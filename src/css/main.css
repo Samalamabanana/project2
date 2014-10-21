@@ -278,3 +278,11 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+/* sama */
+
+#wrapper{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
