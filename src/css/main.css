@@ -281,8 +281,33 @@ textarea {
 
 /* sama */
 
-#wrapper{
+#wrapper {
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+#mainnav {
+	height: 20px;
+	line-height: 20px;
+}
+
+#mainnav li {
+	display: inline;
+}
+
+#mainnav ul {
+	margin: 0px;
+}
+
+#mainnav .first {
+	margin-right: 20px;
+}
+
+#mainnav .middle {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#mainnav .end {
+	margin-left: 20px;
