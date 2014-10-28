@@ -288,8 +288,9 @@ textarea {
 }
 
 #mainnav {
-	height: 20px;
-	line-height: 20px;
+	font-size: 24px;
+	height: 53px;
+	line-height: 53px;
 }
 
 #mainnav li {
@@ -301,13 +302,13 @@ textarea {
 }
 
 #mainnav .first {
-	margin-right: 20px;
+	margin-right: 95px;
 }
 
 #mainnav .middle {
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: 95px;
+	margin-left: 95px;
 }
 
 #mainnav .end {
-	margin-left: 20px;
+	margin-left: 95px;
