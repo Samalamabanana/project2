@@ -287,18 +287,56 @@ textarea {
 	margin-right: auto;
 }
 
+h1 {
+	font-size: 250%;
+}
+
+h2 {
+	font-size: 225%;
+}
+
+h3 {
+	font-size: 200%;
+}
+
+h4 {
+	font-size: 175%;
+}
+
+h5 {
+	font-size: 150%;
+}
+
+h6 {
+	font-size: 125%;
+}
+
+#branding {
+}
+
+.name{
+	float: left;
+	height: 85px;
+}
+
+.logo {
+	float: right;
+	height: 85px;
+	width: 85px;
+}
+
 #mainnav {
-	font-size: 24px;
+	font-size: 25px;
 	height: 53px;
 	line-height: 53px;
 }
 
-#mainnav li {
-	display: inline;
-}
-
 #mainnav ul {
 	margin: 0px;
+}
+
+#mainnav li {
+	display: inline;
 }
 
 #mainnav .first {
@@ -338,3 +376,6 @@ textarea {
 	font-size: 175%;
 }
 
+#footer {
+	clear: both;
+}
