@@ -312,3 +312,25 @@ textarea {
 
 #mainnav .end {
 	margin-left: 95px;
+}
+
+#side_bar{
+	background-color: black;
+	color: white;
+	width: 367px;
+	float: left;
+}
+
+#content{
+	width: 545px;
+	float: left;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+#article_title{
+	height: 55px;
+	line-height: 55px;
+	font-size: 175%;
+}
+
