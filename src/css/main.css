@@ -312,6 +312,26 @@ h6 {
 	font-size: 125%;
 }
 
+a:link {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #9CCDFF;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #7499BE;
+	text-decoration: underline;
+}
+
 #branding {
 }
 
